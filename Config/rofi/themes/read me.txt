@@ -1,0 +1,3 @@
+mkdir -p ~/.local/share/rofi/themes/ # If you Don't have one
+
+cp themes/<your-selected-theme> ~/.local/share/rofi/themes/
