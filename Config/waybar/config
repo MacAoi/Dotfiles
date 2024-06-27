@@ -33,23 +33,18 @@
 
 "hyprland/workspaces": {
     "format": "{icon}",
-    "format-focused": "{icon}",
-    "format-unfocused": "{icon}",
-    "format-visible": "{icon}",
-    "format-urgent": "{icon}",
-    "disable-scroll": true,
-    "icons": {
-      "1": "",   
-      "2": "",   
-      "3": "",   
-      "4": "",   
-      "5": "",   
-      "6": "",   
-      "7": "",   
-      "8": "",   
-      "9": "",   
-      "10": ""   
-    }
+    "format-focused": "■",
+    "format-unfocused": "□",
+    "format-visible": "□",
+    "format-urgent": "□",
+    "format-icons": {
+      "1": "□",  // Regular square icon
+      "2": "□",
+      "3": "□",
+      "4": "□",
+      "5": "□",
+    },
+    "disable-scroll": true
   }
 
 
