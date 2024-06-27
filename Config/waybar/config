@@ -30,7 +30,30 @@
         ],
         
     }
-  
+
+"hyprland/workspaces": {
+    "format": "{icon}",
+    "format-focused": "{icon}",
+    "format-unfocused": "{icon}",
+    "format-visible": "{icon}",
+    "format-urgent": "{icon}",
+    "disable-scroll": true,
+    "icons": {
+      "1": "",   
+      "2": "",   
+      "3": "",   
+      "4": "",   
+      "5": "",   
+      "6": "",   
+      "7": "",   
+      "8": "",   
+      "9": "",   
+      "10": ""   
+    }
+  }
+
+
+
     "tray": {
         // "icon-size": 21,
         "spacing": 10
