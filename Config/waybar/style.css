@@ -50,6 +50,7 @@ button:hover {
     padding: 0 5px;
     background-color: transparent;
     color: #ffffff;
+    font-size: 24px;
 }
 
 #workspaces button:hover {
