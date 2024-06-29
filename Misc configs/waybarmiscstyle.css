@@ -1,0 +1,28 @@
+#workspaces {
+    background: #1e1e1e; /* Background color of the workspaces module */
+    border-radius: 5px;  /* Rounded corners */
+    padding: 5px;        /* Padding around the module */
+    color: #ffffff;      /* Text color */
+    font-size: 14px;     /* Font size */
+}
+
+#workspaces .focused {
+    color: #ffcc00;      /* Color for the focused workspace */
+}
+
+#workspaces .unfocused {
+    color: #888888;      /* Color for the unfocused workspaces */
+}
+
+#workspaces .visible {
+    color: #00ccff;      /* Color for the visible workspaces */
+}
+
+#workspaces .urgent {
+    color: #ff0000;      /* Color for the urgent workspaces */
+}
+
+#workspaces .icon {
+    font-family: "FontAwesome"; /* Use FontAwesome for icons */
+    padding: 0 5px;             /* Padding around icons */
+}
