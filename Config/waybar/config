@@ -3,10 +3,11 @@
         "layer": "top",
         "position": "top", 
         "height": 30,
+        "css": "~/.config/waybar/style.css"
    
         "modules-left": [
         
-            "hyprland/workspaces"
+            "hyprland/workspaces",
             "tray"
         ],
         
