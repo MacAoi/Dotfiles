@@ -1,1 +1,0 @@
-install fonts-font-awesome
