@@ -1,0 +1,21 @@
+You Need to download these 
+
+Hyprland
+Hyprlock
+Hyprpaper
+Waybar
+Rofi
+Thunar
+Firefox
+Ranger
+SDDM
+
+
+
+
+
+
+
+
+Misc -
+pokemon-colorscripts via yay
