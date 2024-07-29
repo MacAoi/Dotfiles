@@ -1,0 +1,10 @@
+Needed Dependencies - qt6-5compat qt6-declarative qt6-svg sddm
+
+Copy the sddm-theme File to /usr/share/sddm/themes/sddm-theme
+
+Copy the fonts folder from /usr/share/sddm/themes/sddm-theme/Fonts to /usr/share/fonts/
+
+Then edit /etc/sddm.conf
+
+echo "[Theme]
+Current=sddm-theme" | sudo tee /etc/sddm.conf
