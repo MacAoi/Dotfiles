@@ -1,21 +1,12 @@
-You Need to download these -
+You Need To Download These ---
 
-Hyprland - Window Manager
+Hyprland -Window Manager
 Hyprlock - Lock
-Hyprpaper - Wallpaper Manager
+Hyprpaper - Wallaper Manager
 Waybar - Status Bar
 Rofi - App Manager
 Thunar - File Manager
-Ranger - Terminal File Manger
+Ranger - Terminal File Manager
 Firefox - Browser
 SDDM - Display Manager
-Package Manager - pacman , yay 
-
-
-
-
-
-
-
-Misc -
-pokemon-colorscripts - yay
+Package Manager - pacman , yay
