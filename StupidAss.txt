@@ -1,15 +1,15 @@
-You Need to download these 
+You Need to download these -
 
-Hyprland
-Hyprlock
-Hyprpaper
-Waybar
-Rofi
-Thunar
-Firefox
-Ranger
-SDDM
-
+Hyprland - Window Manager
+Hyprlock - Lock
+Hyprpaper - Wallpaper Manager
+Waybar - Status Bar
+Rofi - App Manager
+Thunar - File Manager
+Ranger - Terminal File Manger
+Firefox - Browser
+SDDM - Display Manager
+Package Manager - pacman , yay 
 
 
 
@@ -18,4 +18,4 @@ SDDM
 
 
 Misc -
-pokemon-colorscripts via yay
+pokemon-colorscripts - yay
