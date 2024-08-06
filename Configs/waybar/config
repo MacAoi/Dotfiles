@@ -5,15 +5,11 @@
 
     "modules-center": ["hyprland/window"],
 
-    "modules-right": ["pulseaudio", "network", "cpu", "memory" ,"battery", "battery#bat2", "clock"],
+    "modules-right": ["pulseaudio", "network", "memory" ,"battery", "battery#bat2", "clock"],
     
     "clock": {
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
         "format-alt": "{:%Y-%m-%d}"
-    },
-    "cpu": {
-        "format": "{usage}% ",
-        "tooltip": false
     },
     "memory": {
         "format": "{}% "
@@ -21,7 +17,6 @@
     
     "battery": {
         "states": {
-            // "good": 95,
             "warning": 30,
             "critical": 15
         },
@@ -59,7 +54,7 @@
             "default": ["", "", ""]
         },
         "on-click": "pavucontrol"
-    },
+    }
    
 }
 
