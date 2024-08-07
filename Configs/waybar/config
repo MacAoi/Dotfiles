@@ -5,14 +5,11 @@
 
     "modules-center": ["hyprland/window"],
 
-    "modules-right": ["pulseaudio", "network", "memory" ,"battery", "battery#bat2", "clock"],
+    "modules-right": ["pulseaudio", "network","battery", "battery#bat2", "clock"],
     
     "clock": {
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
         "format-alt": "{:%Y-%m-%d}"
-    },
-    "memory": {
-        "format": "{}% "
     },
     
     "battery": {
