@@ -10,7 +10,8 @@ Ranger - Terminal File Manager
 Firefox - Browser
 SDDM - Display Manager
 Package Manager - pacman , yay
-
+nm-applet
+blueman-applet
 Misc - 
 
 move your wallpaper and profile picture to .config folder
