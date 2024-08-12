@@ -16,7 +16,6 @@
            "clock"],
     
    "hyprland/workspaces": {
-    "format": "{name}",
     "format": "{icon}",
     "tooltip": false,
     "all-outputs": true,
@@ -25,22 +24,21 @@
       "default": ""
     }
   },
-          
+
     "clock": {
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
         "format-alt": "{:%Y-%m-%d}"
     },
     
-    "battery": {
+   "battery": {
         "states": {
             "warning": 30,
             "critical": 15
         },
-        "format": "{capacity}% {icon}",
-        "format-charging": "{capacity}% ",
-        "format-plugged": "{capacity}% ",
-        "format-alt": "{time} {icon}",
-        "format-icons": ["", "", "", "", ""]
+        "format": "{capacity}% 🔋",
+        "format-charging": "{capacity}% ⚡",
+        "format-plugged": "{capacity}% 🔌",
+        "format-icons": ["🔋", "🔋", "🔋", "🔋", "🔋"]
     },
 
     "network": {
