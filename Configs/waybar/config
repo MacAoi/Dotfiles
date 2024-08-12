@@ -15,6 +15,17 @@
            "battery",
            "clock"],
     
+   "hyprland/workspaces": {
+    "format": "{name}",
+    "format": "{icon}",
+    "tooltip": false,
+    "all-outputs": true,
+    "format-icons": {
+      "active": "",
+      "default": ""
+    }
+  },
+          
     "clock": {
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
         "format-alt": "{:%Y-%m-%d}"
