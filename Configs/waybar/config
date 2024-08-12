@@ -1,11 +1,19 @@
 {
-    "height": 30,
-    "spacing": 4,
-    "modules-left": ["hyprland/workspaces"],
+    "layer": "top",
+    
+    "modules-left": [
+        "hyprland/workspaces"
+    ],
 
-    "modules-center": ["hyprland/window"],
+    "modules-center": [
+        "hyprland/window"
+    ],
 
-    "modules-right": ["pulseaudio", "network","battery", "clock"],
+    "modules-right": [
+           "pulseaudio",
+           "network",
+           "battery",
+           "clock"],
     
     "clock": {
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
