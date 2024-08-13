@@ -15,3 +15,12 @@ blueman-applet
 Misc - 
 
 move your wallpaper and profile picture to .config folder
+
+nm-applet sudo pacman -Sy network-manager-applet
+                 sudo systemctl start NetworkManager
+                 sudo systemctl enable NetworkManager
+blueman - sudo pacman -Sy blueman
+                 sudo systemctl start bluetooth
+                 sudo systemctl enable bluetooth
+
+                 
