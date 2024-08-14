@@ -28,6 +28,7 @@
       "active": "◉",
       "default": "◯"
     }
+    "disable-scroll": true
   },
 
     "clock": {
