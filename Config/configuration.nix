@@ -18,6 +18,13 @@
 
      };
 
+services.pipewire = {
+  enable = true;
+  alsa.enable = true;
+  alsa.support32Bit = true;
+  pulse.enable = true;
+};
+
 services.xserver.displayManager.sddm.enable = true;
 
   networking.networkmanager.enable = true;
